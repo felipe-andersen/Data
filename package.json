@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Guia preliminar para projetos de construção e reforma deedifícios residênciais.",
   "main": "hj.json",
+  "files": ["hj.json", "info.md", "Geograpy.md"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
